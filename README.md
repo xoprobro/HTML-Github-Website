@@ -17,6 +17,6 @@ and it would be good to learn HTML for Gmetrix
 
 If you want to use this you can press the green "use this template" button on the top right, then just name it whatever you want it to be. 
 
-You may need to edit the code in the file **Html Coded Website** to put your contacts and other names in there 
+You may need to edit the code in the file **HTML Coded Website** to put your contacts and other names in there 
 
 Afterwards **Enable Github Pages** which is in settings and located at the end of **Code and Automation** 
