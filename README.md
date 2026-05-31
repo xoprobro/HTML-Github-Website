@@ -1,5 +1,5 @@
-# Github-Website
-Looking at code that contains html to make a website on github
+# HTML-Github-Website
+Looking at code that contains HTML to make a website on github
 
 Link to a site:
 
