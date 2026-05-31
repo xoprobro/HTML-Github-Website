@@ -1,7 +1,7 @@
 # HTML-Github-Website
 Looking at code that contains HTML to make a website on github
 
-Feel Free to add more onto this
+Feel Free to add more onto the repository
 
 Link to a site:
 
