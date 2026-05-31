@@ -9,7 +9,7 @@ https://dev.to/code_2/building-and-deploying-a-custom-site-using-github-actions-
 
 https://github.com/search?q=github%20page%20examples&type=repositories
 
-I am doing this because I can get my own domain for free without paying for the ones on websites 😭
+Doing this because a custom domain is free on this rather than other websites 
 
 and it would be good to learn HTML for Gmetrix
 
