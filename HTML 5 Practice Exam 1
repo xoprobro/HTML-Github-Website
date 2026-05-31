@@ -2,3 +2,8 @@
 
 Questions (based on the order I got them)
 
+1: A developer wants to make all images with the sepia class 80% sepia. fill in the missing code to fulfill the needs for the class.
+
+.sepia { 
+    filter: sepia(80%);
+}
